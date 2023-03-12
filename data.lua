@@ -740,7 +740,7 @@ if mods["space-exploration"] then
   stone_processing_recipe_sp_l4.results =
   {
       {type = "item", name = "crushed-stone", amount = 15, probability=3, hide_from_stats=false},	
-      {type = "item", name = "stone", amount = 11, probability=2, hide_from_stats=false},
+      {type = "item", name = "stone", amount = 12, probability=2, hide_from_stats=false},
       {type = "item", name = "coal", amount = 10, probability=1, hide_from_stats=false},
       {type = "item", name = "iron-ore", amount = 1, probability=0.7, hide_from_stats=false},
       {type = "item", name = "copper-ore", amount = 1, probability=0.2, hide_from_stats=false},
