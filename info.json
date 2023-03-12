@@ -1,0 +1,9 @@
+{
+  "name": "arborium_upgrade",
+  "version": "0.0.3",
+  "title": "Arborium - upgrade",
+  "author": "evandro_6565",
+  "description": "",
+  "dependencies": ["Arborium_Renewed", "? aai-industry"],
+  "factorio_version": "1.1"
+}
